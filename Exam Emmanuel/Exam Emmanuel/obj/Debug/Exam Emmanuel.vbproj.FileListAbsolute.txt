@@ -1,0 +1,75 @@
+C:\Users\Programming6\Desktop\Exam Emmanuel\Exam Emmanuel\bin\Exam Emmanuel.dll.config
+C:\Users\Programming6\Desktop\Exam Emmanuel\Exam Emmanuel\bin\Exam Emmanuel.dll
+C:\Users\Programming6\Desktop\Exam Emmanuel\Exam Emmanuel\bin\Exam Emmanuel.pdb
+C:\Users\Programming6\Desktop\Exam Emmanuel\Exam Emmanuel\bin\WebForms_Basic.xml
+C:\Users\Programming6\Desktop\Exam Emmanuel\Exam Emmanuel\bin\roslyn\csc.exe
+C:\Users\Programming6\Desktop\Exam Emmanuel\Exam Emmanuel\bin\roslyn\csc.exe.config
+C:\Users\Programming6\Desktop\Exam Emmanuel\Exam Emmanuel\bin\roslyn\csc.rsp
+C:\Users\Programming6\Desktop\Exam Emmanuel\Exam Emmanuel\bin\roslyn\csi.exe
+C:\Users\Programming6\Desktop\Exam Emmanuel\Exam Emmanuel\bin\roslyn\csi.exe.config
+C:\Users\Programming6\Desktop\Exam Emmanuel\Exam Emmanuel\bin\roslyn\csi.rsp
+C:\Users\Programming6\Desktop\Exam Emmanuel\Exam Emmanuel\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Programming6\Desktop\Exam Emmanuel\Exam Emmanuel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Programming6\Desktop\Exam Emmanuel\Exam Emmanuel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Programming6\Desktop\Exam Emmanuel\Exam Emmanuel\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Programming6\Desktop\Exam Emmanuel\Exam Emmanuel\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Programming6\Desktop\Exam Emmanuel\Exam Emmanuel\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Programming6\Desktop\Exam Emmanuel\Exam Emmanuel\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Programming6\Desktop\Exam Emmanuel\Exam Emmanuel\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Programming6\Desktop\Exam Emmanuel\Exam Emmanuel\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Programming6\Desktop\Exam Emmanuel\Exam Emmanuel\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Programming6\Desktop\Exam Emmanuel\Exam Emmanuel\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Programming6\Desktop\Exam Emmanuel\Exam Emmanuel\bin\roslyn\System.AppContext.dll
+C:\Users\Programming6\Desktop\Exam Emmanuel\Exam Emmanuel\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Programming6\Desktop\Exam Emmanuel\Exam Emmanuel\bin\roslyn\System.Console.dll
+C:\Users\Programming6\Desktop\Exam Emmanuel\Exam Emmanuel\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Programming6\Desktop\Exam Emmanuel\Exam Emmanuel\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Programming6\Desktop\Exam Emmanuel\Exam Emmanuel\bin\roslyn\System.IO.Compression.dll
+C:\Users\Programming6\Desktop\Exam Emmanuel\Exam Emmanuel\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Programming6\Desktop\Exam Emmanuel\Exam Emmanuel\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Programming6\Desktop\Exam Emmanuel\Exam Emmanuel\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Programming6\Desktop\Exam Emmanuel\Exam Emmanuel\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Programming6\Desktop\Exam Emmanuel\Exam Emmanuel\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Programming6\Desktop\Exam Emmanuel\Exam Emmanuel\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Programming6\Desktop\Exam Emmanuel\Exam Emmanuel\bin\roslyn\System.Security.Claims.dll
+C:\Users\Programming6\Desktop\Exam Emmanuel\Exam Emmanuel\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Programming6\Desktop\Exam Emmanuel\Exam Emmanuel\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Programming6\Desktop\Exam Emmanuel\Exam Emmanuel\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Programming6\Desktop\Exam Emmanuel\Exam Emmanuel\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Programming6\Desktop\Exam Emmanuel\Exam Emmanuel\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Programming6\Desktop\Exam Emmanuel\Exam Emmanuel\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Programming6\Desktop\Exam Emmanuel\Exam Emmanuel\bin\roslyn\System.ValueTuple.dll
+C:\Users\Programming6\Desktop\Exam Emmanuel\Exam Emmanuel\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Programming6\Desktop\Exam Emmanuel\Exam Emmanuel\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Programming6\Desktop\Exam Emmanuel\Exam Emmanuel\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Programming6\Desktop\Exam Emmanuel\Exam Emmanuel\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Programming6\Desktop\Exam Emmanuel\Exam Emmanuel\bin\roslyn\vbc.exe
+C:\Users\Programming6\Desktop\Exam Emmanuel\Exam Emmanuel\bin\roslyn\vbc.exe.config
+C:\Users\Programming6\Desktop\Exam Emmanuel\Exam Emmanuel\bin\roslyn\vbc.rsp
+C:\Users\Programming6\Desktop\Exam Emmanuel\Exam Emmanuel\bin\roslyn\VBCSCompiler.exe
+C:\Users\Programming6\Desktop\Exam Emmanuel\Exam Emmanuel\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Programming6\Desktop\Exam Emmanuel\Exam Emmanuel\bin\Antlr3.Runtime.dll
+C:\Users\Programming6\Desktop\Exam Emmanuel\Exam Emmanuel\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Programming6\Desktop\Exam Emmanuel\Exam Emmanuel\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Programming6\Desktop\Exam Emmanuel\Exam Emmanuel\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Programming6\Desktop\Exam Emmanuel\Exam Emmanuel\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Programming6\Desktop\Exam Emmanuel\Exam Emmanuel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Programming6\Desktop\Exam Emmanuel\Exam Emmanuel\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Programming6\Desktop\Exam Emmanuel\Exam Emmanuel\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Programming6\Desktop\Exam Emmanuel\Exam Emmanuel\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Programming6\Desktop\Exam Emmanuel\Exam Emmanuel\bin\Newtonsoft.Json.dll
+C:\Users\Programming6\Desktop\Exam Emmanuel\Exam Emmanuel\bin\System.Web.Optimization.dll
+C:\Users\Programming6\Desktop\Exam Emmanuel\Exam Emmanuel\bin\WebGrease.dll
+C:\Users\Programming6\Desktop\Exam Emmanuel\Exam Emmanuel\bin\System.Web.Optimization.xml
+C:\Users\Programming6\Desktop\Exam Emmanuel\Exam Emmanuel\bin\Newtonsoft.Json.xml
+C:\Users\Programming6\Desktop\Exam Emmanuel\Exam Emmanuel\bin\Antlr3.Runtime.pdb
+C:\Users\Programming6\Desktop\Exam Emmanuel\Exam Emmanuel\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Programming6\Desktop\Exam Emmanuel\Exam Emmanuel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Programming6\Desktop\Exam Emmanuel\Exam Emmanuel\obj\Debug\Exam Emmanuel.vbprojAssemblyReference.cache
+C:\Users\Programming6\Desktop\Exam Emmanuel\Exam Emmanuel\obj\Debug\Exam_Emmanuel.Resources.resources
+C:\Users\Programming6\Desktop\Exam Emmanuel\Exam Emmanuel\obj\Debug\Exam Emmanuel.vbproj.GenerateResource.cache
+C:\Users\Programming6\Desktop\Exam Emmanuel\Exam Emmanuel\obj\Debug\Exam Emmanuel.vbproj.CoreCompileInputs.cache
+C:\Users\Programming6\Desktop\Exam Emmanuel\Exam Emmanuel\obj\Debug\Exam Emmanuel.vbproj.CopyComplete
+C:\Users\Programming6\Desktop\Exam Emmanuel\Exam Emmanuel\obj\Debug\Exam Emmanuel.dll
+C:\Users\Programming6\Desktop\Exam Emmanuel\Exam Emmanuel\obj\Debug\WebForms_Basic.xml
+C:\Users\Programming6\Desktop\Exam Emmanuel\Exam Emmanuel\obj\Debug\Exam Emmanuel.pdb
